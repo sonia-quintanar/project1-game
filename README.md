@@ -21,4 +21,3 @@ Si repites un letra, te indicará que ya la has elegido antes y te pedirá que e
 
 **¿Puedo volver a jugar?**
 Tanto si aciertas la palabra como sino, te preguntará si quieres volver a jugar.
-
