@@ -1,4 +1,4 @@
-### HAGMAN GAME ###  :video_game:
+### HAGMAN GAME  :video_game:
 
 ![image](https://github.com/sonia-quintanar/project1-game/blob/main/src/hangman.jpg)
 
