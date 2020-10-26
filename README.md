@@ -6,7 +6,6 @@
 ### Descripción del proyecto ###
 
 
-
 **En este proyecto hemos creado el juego del ahorcado, ¿quién no lo conoce?**
 
 Consiste en elegir letras y la máquina te irá indicando si pertenecen a la palabra aletatoria elegida. Tanto si las letras pertenecen o no a la palabra elegida, te las irá mostrando en la pantalla como letras correctas e incorrectas.
