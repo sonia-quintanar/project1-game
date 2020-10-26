@@ -1,6 +1,6 @@
 ### HAGMAN GAME ###  :video_game:
 
-[image]!(https://github.com/sonia-quintanar/project1-game/blob/main/src/hangman.jpg)
+![image](https://github.com/sonia-quintanar/project1-game/blob/main/src/hangman.jpg)
 
 ### Descripción del proyecto ###
 
